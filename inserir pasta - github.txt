@@ -2,6 +2,8 @@ git init
 
 git remote add origin "link da pasta sem aspas"
 
+git add * (adicionar todos os arquivos)
+
 git commit -m "first commit"
 
 git push -u origin main
